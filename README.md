@@ -1,1 +1,1 @@
-# edtech_project
+# EdTech project
